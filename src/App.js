@@ -30,6 +30,7 @@ class App extends Component {
             <Router>
                 <Layout>
                     <Header className="color" title="Title" scroll>
+
                         <Navigation>
                             <Link to="/">Home</Link>
                             <Link to="/resume"> About Me</Link>
