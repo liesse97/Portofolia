@@ -28,7 +28,7 @@ class Landing extends Component {
                     <div className="text">
                         <h1>Frontend Developer</h1>
                         <p className="nam">Hi, My name is Liesse and I am frontend developer from Sweden. I create beautiful and functional website.  </p>
-                        <p className="text1">HTML/CSS | Bootstrap | JavaScript | React </p>
+                        <p className="text1">HTML/CSS | Flexbox | JavaScript | React </p>
 
                     </div>
                 </Cell>
