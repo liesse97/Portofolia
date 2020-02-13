@@ -18,7 +18,7 @@ class Projects extends Component {
                         <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover' }} >Quire</CardTitle>
 
                         <CardActions border>
-                            <a href="https://github.com/MarcelR1998/fe19tp1_teamEraser" target="_blank" ><Button colored>GitHub</Button></a>
+                            <a href="https://github.com/MarcelR1998/fe19tp1_teamEraser" target="_blank" rel="noopener noreferrer"><Button colored>GitHub</Button></a>
                             <a href="http://quire.se/" target="blank"><Button colored>LiveDemo</Button></a>
                         </CardActions>
                         <CardMenu style={{ color: '#fff' }}>
@@ -31,8 +31,8 @@ class Projects extends Component {
                         <CardTitle style={{ color: '#fff', height: '176px', background: 'url(https://xtnotes-1255646395.coshk.myqcloud.com/images/react-1.svg) center / cover' }} >Portofolia</CardTitle>
 
                         <CardActions border>
-                            <a href="https://github.com/liesse97/Portofolia" target="_blank" ><Button colored>GitHub</Button></a>
-                            <a href="http://localhost:3001/projects" target="blank"><Button colored>LiveDemo</Button></a>
+                            <a href="https://github.com/liesse97/Portofolia" target="_blank" rel="noopener noreferrer"><Button colored>GitHub</Button></a>
+                            <a href="/"><Button colored>LiveDemo</Button></a>
                         </CardActions>
                         <CardMenu style={{ color: '#fff' }}>
                             <IconButton name="share" />

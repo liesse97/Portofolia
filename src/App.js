@@ -29,7 +29,7 @@ class App extends Component {
 
             <Router>
                 <Layout>
-                    <Header className="color" title="Title" scroll>
+                    <Header className="color" title="Liesse" scroll>
 
                         <Navigation>
                             <Link to="/">Home</Link>
@@ -39,7 +39,7 @@ class App extends Component {
 
                         </Navigation>
                     </Header>
-                    <Drawer title="Title">
+                    <Drawer title="Liesse">
                         <Navigation>
                             <Link to="/landingpage">Home</Link>
                             <Link to="/resume"> About Me</Link>
